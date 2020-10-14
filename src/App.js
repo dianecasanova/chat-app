@@ -19,6 +19,7 @@ function App() {
         name="Janice Austin"
         online
       />
+      <ContactList />
     </div>
   );
 }
